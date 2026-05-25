@@ -1,0 +1,127 @@
+Date Purchase,Sum of Purchase Amount (USD),,,,
+2022,130502,,,,
+Jan,1739,,,,
+Feb,2977,,,,
+Mar,2697,,,,
+Apr,2684,,,,
+May,3418,,,,
+Jun,2745,,,,
+Jul,3338,,,,
+Aug,4706,,,,
+Sep,7309,,,,
+Oct,29458,,,,
+Nov,33843,,,,
+Dec,35588,,,,
+2023,371950,,,,
+Jan,36464,,,,
+Feb,34216,,,,
+Mar,37603,,,,
+Apr,33213,,,,
+May,50595,,,,
+Jun,35898,,,,
+Jul,31774,,,,
+Aug,34930,,,,
+Sep,29844,,,,
+Oct,14938,,,,
+Nov,17368,,,,
+Dec,15107,,,,
+Grand Total,502452,,,,
+,,,,,
+,,,,,
+,,,,,
+Item,Sum of Purchase Amount (USD),,,Item,Average of Review Rating
+Backpack,7928,,,Backpack,3.1
+Belt,12794,,,Belt,3.0
+Blazer,11855,,,Blazer,3.0
+Blouse,12232,,,Blouse,2.9
+Boots,13321,,,Boots,3.2
+Bowtie,9585,,,Bowtie,2.9
+Camisole,7676,,,Camisole,2.7
+Cardigan,10480,,,Cardigan,3.0
+Coat,7204,,,Coat,3.1
+Dress,5537,,,Dress,3.0
+Flannel Shirt,6526,,,Flannel Shirt,2.6
+Flip-Flops,12409,,,Flip-Flops,3.3
+Gloves,13100,,,Gloves,3.1
+Handbag,14098,,,Handbag,3.1
+Hat,7103,,,Hat,2.9
+Hoodie,11009,,,Hoodie,3.0
+Jacket,9439,,,Jacket,2.7
+Jeans,14168,,,Jeans,3.2
+Jumpsuit,6464,,,Jumpsuit,3.2
+Kimono,10450,,,Kimono,3.0
+Leggings,9517,,,Leggings,2.8
+Loafers,12765,,,Loafers,2.8
+Onesie,10869,,,Onesie,3.0
+Overalls,6344,,,Overalls,3.0
+Pajamas,14998,,,Pajamas,2.8
+Pants,10945,,,Pants,3.1
+Polo Shirt,6316,,,Polo Shirt,2.9
+Poncho,12852,,,Poncho,3.0
+Raincoat,8317,,,Raincoat,3.0
+Romper,11221,,,Romper,3.1
+Sandals,6341,,,Sandals,3.2
+Scarf,9945,,,Scarf,3.2
+Shorts,14132,,,Shorts,2.9
+Skirt,9337,,,Skirt,3.2
+Slippers,12604,,,Slippers,3.1
+Sneakers,7756,,,Sneakers,3.1
+Socks,9573,,,Socks,2.7
+Sun Hat,4957,,,Sun Hat,3.4
+Sunglasses,6375,,,Sunglasses,2.7
+Sweater,12080,,,Sweater,3.1
+Swimsuit,10896,,,Swimsuit,3.1
+Tank Top,10056,,,Tank Top,3.2
+Tie,5953,,,Tie,3.0
+Trench Coat,11312,,,Trench Coat,3.2
+Trousers,8438,,,Trousers,2.9
+T-shirt,11133,,,T-shirt,3.0
+Tunic,18045,,,Tunic,2.4
+Umbrella,7575,,,Umbrella,3.1
+Vest,7620,,,Vest,2.9
+Wallet,10802,,,Wallet,3.2
+Grand Total,502452,,,Grand Total,3.0
+,,,,,
+Payment Method,Sum of Customer Reference ID,,,Row Labels,Average of Purchase Amount (USD)
+Cash,6583642,,,1,103.0
+Credit Card,7151204,,,1.1,101.6
+Grand Total,13734846,,,1.2,238.3
+,,,,1.3,134.7
+,,,,1.4,108.0
+,,,,1.5,101.0
+,,,,1.6,102.2
+,,,,1.7,146.0
+,,,,1.8,151.9
+,,,,1.9,114.3
+,,,,2,145.0
+,,,,2.1,103.4
+,,,,2.2,169.6
+,,,,2.3,103.7
+,,,,2.4,93.2
+,,,,2.5,108.1
+,,,,2.6,114.1
+,,,,2.7,174.7
+,,,,2.8,140.9
+,,,,2.9,144.8
+,,,,3,186.3
+,,,,3.1,100.5
+,,,,3.2,156.2
+,,,,3.3,101.1
+,,,,3.4,191.4
+,,,,3.5,110.3
+,,,,3.6,187.8
+,,,,3.7,115.4
+,,,,3.8,172.1
+,,,,3.9,112.4
+,,,,4,191.2
+,,,,4.1,180.9
+,,,,4.2,184.0
+,,,,4.3,146.2
+,,,,4.4,139.2
+,,,,4.5,145.3
+,,,,4.6,138.6
+,,,,4.7,138.8
+,,,,4.8,160.4
+,,,,4.9,213.2
+,,,,5,281.1
+,,,,Grand Total,147.78
